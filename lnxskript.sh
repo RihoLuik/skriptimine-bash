@@ -10,4 +10,4 @@ clock=$(date +%T)
 echo "Tere, $name! Täna on: $day, $clock"
 echo "Hea päev skriptimiseks! Kontrollime uuendusi."
 sudo apt update
-echo "Kena päeva ning edu skriptimisega!"
+echo "Kena päeva ning edu bash skriptimisega!"
